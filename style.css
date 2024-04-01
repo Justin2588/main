@@ -22,8 +22,7 @@
         left: 0;
         background-image: url('../HTML/img/justin1.png'); 
         background-size: cover;
-        background-position: 3500px 4000px;
-        opacity: 0.7; 
+        background-position: 3500px 4000px; 
     }
 
     nav {
